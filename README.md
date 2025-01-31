@@ -14,5 +14,3 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzk6780051)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zzk6780051)
-
-![](https://stats.justsong.cn/api/leetcode?username=zzk6780051&cn=true)
