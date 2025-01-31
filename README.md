@@ -1,4 +1,4 @@
-## 欢迎来到China_zzk的个人主页 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到China_zzk的个人主页)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzk6780051)
