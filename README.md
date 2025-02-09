@@ -40,6 +40,9 @@
 <a href="https://space.bilibili.com/3546727674022555"><img src="https://img.shields.io/badge/哔哩哔哩-China_zzk-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-1478486657-green?logo=tencentqq" />
 
+<!--访客统计-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=zzk6780051&abbreviated=true&color=yellow" />
