@@ -30,7 +30,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzk6780051&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 
-<!--卡片-->
+<!--个人统计-->
 ![Metrics](/github-metrics.svg)
 
 <!--个人卡片-->
