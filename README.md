@@ -31,7 +31,9 @@
 <br/>
 
 <!--个人统计-->
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
 
 <!--个人卡片-->
 <!-- https://github.com/badges/shields -->
